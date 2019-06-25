@@ -89,5 +89,5 @@ BaselineOfMaterialDesignLite >> seaside3: spec [
 
 { #category : #dependencies }
 BaselineOfMaterialDesignLite >> seasideGenerationTester: spec [
-	spec baseline: 'SeasideGenerationTester' with: [ spec repository: 'github://DuneSt/SeasideGenerationTester:v1.x.x/src' ]
+	spec baseline: 'SeasideGenerationTester' with: [ spec repository: 'github://Lin777/SeasideGenerationTester:master/src' ]
 ]
