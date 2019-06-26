@@ -52,7 +52,7 @@ BaselineOfMaterialDesignLite >> fileLibraryHelper: spec [
 
 	spec
 		baseline: 'FileLibraryHelper'
-		with: [ spec repository: 'github://jecisc/FileLibraryHelper:v1.x.x/src' ]
+		with: [ spec repository: 'github://Lin777/FileLibraryHelper:development/src' ]
 ]
 
 { #category : #dependencies }
